@@ -45,7 +45,7 @@
 | Software | Description |
 | :--- | :--- |
 | **UTAU** | Classic free singing synthesis software, Windows platform, extract and use |
-| **OpenUTAU** | Modern upgrade of UTAU, supports Windows / Mac / Linux |
+| **OpenUTAU** | Modern upgrade of UTAU, supports Android |
 
 ---
 
