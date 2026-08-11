@@ -1,4 +1,3 @@
-# suzuran-Virtual-singer
 <div align="center">
   
 # 🎵 鈴蘭 · Suzuran
@@ -11,7 +10,7 @@
 
 <div align="center">
   
-![鈴蘭形象图](https://your-image-link.com/suzuran.png)
+![鈴蘭形象图](https://ftp.mioz.cn/test/2026/08/11/1786422427.JPG)
 
 </div>
 
