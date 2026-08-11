@@ -8,15 +8,25 @@
 
 ---
 
+<div align="center">
+  
+![](https://img.shields.io/badge/花语-幸福归来-7c9a8e?style=flat-square)
+![](https://img.shields.io/badge/代表色-铃兰绿-7c9a8e?style=flat-square)
+![](https://img.shields.io/badge/语言-日语-7c9a8e?style=flat-square)
+
+</div>
+
+---
+
 ## 🌸 角色档案
 
 | 项目 | 内容 |
 | :--- | :--- |
-| **名字** | 鈴蘭Suzuran |
+| **名字** | 鈴蘭 · Suzuran |
 | **年龄** | 12岁 |
 | **生日** | 4月26日 |
 | **身高** | 158cm |
-| **代表色** | 铃兰绿 #7c9a8e |
+| **代表色** | 铃兰绿 `#7c9a8e` |
 | **性格** | 温柔、安静 |
 
 ---
@@ -30,8 +40,12 @@
 
 ---
 
+> 🌸 *铃兰花开，歌声自来。*
+
+---
+
 <div align="center">
   
-🌸 **铃兰花开，歌声自来。** 🌸
+**—— 献给每一位热爱音乐的人 ——**
 
 </div>
