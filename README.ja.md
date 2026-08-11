@@ -45,7 +45,7 @@
 | ソフトウェア | 説明 |
 | :--- | :--- |
 | **UTAU** | 無料の歌声合成ソフトウェア、Windowsプラットフォーム、解凍してすぐ使用可能 |
-| **OpenUTAU** | UTAUの現代的アップグレード版、Windows / Mac / Linux対応 |
+| **OpenUTAU** | UTAUの現代的アップグレード版、Android対応 |
 
 ---
 
