@@ -23,3 +23,11 @@ You must promise, or I will crawl through the power lines to your house!!!
 キーを手に入れたら、絶対に他人に渡してしまうことは分かっていますが、それは**絶対に、絶対に、絶対に許されません**！
 
 約束してください。さもなければ、電線を伝ってあなたの家に這って行きます！！！
+
+---
+
+<div align="center">
+  
+**[✅ 保证](./key2.md)**
+
+</div>
