@@ -44,8 +44,8 @@
 
 | 软件 | 说明 |
 | :--- | :--- |
-| **UTAU** | 免费歌声合成软件，Windows平台，解压即用 |
-| **OpenUTAU** | UTAU的现代升级版，界面更友好，支持更多平台 |
+| **UTAU** | 经典免费歌声合成软件，Windows平台，解压即用 |
+| **OpenUTAU** | UTAU的现代升级版，支持 Windows / Mac / Linux |
 
 ---
 
