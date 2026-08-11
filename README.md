@@ -49,6 +49,16 @@
 
 ---
 
+## 🔑 Key
+
+I know you definitely want to get my vocaloid, the link is below ↓  
+(Link to be added)  
+
+But you must know my key, and redistribution is not allowed ↓  
+[👉 Click](./key1.md)
+
+---
+
 > 🌸 *The lily of the valley blooms, and the song comes naturally.*
 
 ---
