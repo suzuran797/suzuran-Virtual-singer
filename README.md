@@ -2,7 +2,7 @@
   
 # 🎵 鈴蘭 · Suzuran
 
-**[🇨🇳 简体中文](./README.md) | [🇺🇸 English](./README.en.md) | [🇯🇵 日本語](./README.ja.md)**
+**[🇨🇳 简体中文](./README.md) | [🇯🇵 日本語](./README.ja.md)**
 
 </div>
 
@@ -10,51 +10,51 @@
 
 <div align="center">
   
-![](https://img.shields.io/badge/花语-幸福归来-EBFFF9?style=flat-square)
-![](https://img.shields.io/badge/代表色-铃兰绿-EBFFF9?style=flat-square)
-![](https://img.shields.io/badge/语言-日语-EBFFF9?style=flat-square)
+![](https://img.shields.io/badge/Flower%20Language-Return%20of%20Happiness-EBFFF9?style=flat-square)
+![](https://img.shields.io/badge/Representative%20Color-Lily%20of%20the%20Valley%20Green-EBFFF9?style=flat-square)
+![](https://img.shields.io/badge/Language-Japanese-EBFFF9?style=flat-square)
 
 </div>
 
 ---
 
-## 🌸 角色档案
+## 🌸 Character Profile
 
-| 项目 | 内容 |
+| Item | Details |
 | :--- | :--- |
-| **名字** | 鈴蘭 · Suzuran |
-| **年龄** | 12岁 |
-| **生日** | 4月26日 |
-| **身高** | 158cm |
-| **代表色** | 铃兰绿 `#7c9a8e` |
-| **性格** | 温柔、安静 |
+| **Name** | 鈴蘭 · Suzuran |
+| **Age** | 12 years old |
+| **Birthday** | April 26 |
+| **Height** | 158cm |
+| **Representative Color** | Lily of the Valley Green `#7c9a8e` |
+| **Personality** | Gentle, Quiet |
 
 ---
 
-## 🎵 声音特征
+## 🎵 Voice Features
 
-| 特征 | 描述 |
+| Feature | Description |
 | :--- | :--- |
-| **音色** | 温柔甜美，稍微有些沙哑 |
-| **语言** | 日语 |
+| **Tone** | Gentle and sweet, slightly husky |
+| **Language** | Japanese |
 
 ---
 
-## 💻 支持软件
+## 💻 Supported Software
 
-| 软件 | 说明 |
+| Software | Description |
 | :--- | :--- |
-| **UTAU** | 经典免费歌声合成软件，Windows平台，解压即用 |
-| **OpenUTAU** | UTAU的现代升级版，支持 Windows / Mac / Linux |
+| **UTAU** | Classic free singing synthesis software, Windows platform, extract and use |
+| **OpenUTAU** | Modern upgrade of UTAU, supports Windows / Mac / Linux |
 
 ---
 
-> 🌸 *铃兰花开，歌声自来。*
+> 🌸 *The lily of the valley blooms, and the song comes naturally.*
 
 ---
 
 <div align="center">
   
-**—— 献给每一位热爱音乐的人 ——**
+**—— For everyone who loves music ——**
 
 </div>
