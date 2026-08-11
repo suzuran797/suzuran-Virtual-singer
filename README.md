@@ -10,9 +10,9 @@
 
 <div align="center">
   
-![](https://img.shields.io/badge/花语-幸福归来-7c9a8e?style=flat-square)
-![](https://img.shields.io/badge/代表色-铃兰绿-7c9a8e?style=flat-square)
-![](https://img.shields.io/badge/语言-日语-7c9a8e?style=flat-square)
+![](https://img.shields.io/badge/花语-幸福归来-EBFFF9?style=flat-square)
+![](https://img.shields.io/badge/代表色-铃兰绿-EBFFF9?style=flat-square)
+![](https://img.shields.io/badge/语言-日语-EBFFF9?style=flat-square)
 
 </div>
 
