@@ -2,7 +2,7 @@
   
 # 🎵 鈴蘭 · Suzuran
 
-**[🇨🇳 简体中文](./README.md) | [🇯🇵 日本語](./README.ja.md)**
+**[🇨🇳 简体中文](./README.zh) | [🇯🇵 日本語](./README.ja.md)**
 
 </div>
 
