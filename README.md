@@ -40,6 +40,12 @@
 
 ---
 
+## 🎧 Audition
+
+|suzuran1.0.4ⅠAudio link|
+| :--- | :--- |
+| **link** | https://pastewaves.com/player/d298653a-d070-404e-8e47-976374ac84ea |
+
 ## 💻 Supported Software
 
 | Software | Description |
