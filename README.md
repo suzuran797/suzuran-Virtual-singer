@@ -42,9 +42,11 @@
 
 ## 🎧 Audition
 
-|suzuran1.0.4|Audio link|
+| Version | Audio Link |
 | :--- | :--- |
-| **link** | https://pastewaves.com/player/d298653a-d070-404e-8e47-976374ac84ea |
+| **Suzuran v1.0.4** | [Click to Listen](https://pastewaves.com/player/d298653a-d070-404e-8e47-976374ac84ea) |
+
+___
 
 ## 💻 Supported Software
 
