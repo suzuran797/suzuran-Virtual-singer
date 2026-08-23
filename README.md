@@ -60,7 +60,7 @@ ___
 ## 🔑 Key
 
 I know you definitely want to get my vocaloid, the link is below ↓  
-https://bowlroll.net/file/358933
+https://bowlroll.net/file/359048
 
 But you must know my key, and redistribution is not allowed ↓  
 [👉 Click](./key1.md)
