@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🎵 鈴蘭 · Suzuran
+# 声库公开配布
 
 **[🇺🇸 English](./README.md) | [🇯🇵 日本語](./README.ja.md)**
 
@@ -10,7 +10,7 @@
 
 <div align="center">
   
-![](https://img.shields.io/badge/花语-幸福归来-EBFFF9?style=flat-square)
+![](https://img.shields.io/badge/声库-公开配布-EBFFF9?style=flat-square)
 ![](https://img.shields.io/badge/代表色-铃兰绿-EBFFF9?style=flat-square)
 ![](https://img.shields.io/badge/语言-日语-EBFFF9?style=flat-square)
 
@@ -18,61 +18,53 @@
 
 ---
 
-## 🌸 角色档案
+这里是关于 **suzuran（鈴音らん）** 的声库公开配布与介绍页面。如想获得密钥，请在对应角色的链接中寻找。
+
+---
+
+## 🌸 角色介绍
 
 | 项目 | 内容 |
 | :--- | :--- |
-| **名字** | 鈴蘭 · Suzuran |
+| **名字** | suzuran（鈴音らん） |
 | **年龄** | 12岁 |
+| **性别** | 女 |
+| **身高** | 154cm |
 | **生日** | 4月26日 |
-| **身高** | 158cm |
-| **代表色** | 铃兰绿 `#7c9a8e` |
-| **性格** | 温柔、安静 |
+| **喜好** | 画画、听歌 |
+| **喜欢的食物** | 巧克力、豆腐、椰子汁、陈皮糖、苹果 |
+| **讨厌的食物** | 榴莲、肥肉、芹菜、榴莲类制品 |
 
 ---
 
-## 🎵 声音特征
+## 🎵 角色声库介绍
 
-| 特征 | 描述 |
+| 项目 | 内容 |
 | :--- | :--- |
-| **音色** | 温柔甜美，稍微有些沙哑 |
-| **语言** | 日语 |
+| **角色+声库版** | 单独音 / CCVC / 连续音 |
+| **suzuran 1.0.3** | [单独音](./Permit.md) |
+| **角色声线介绍** | 声音甜甜的，带有一丝沙哑感 |
+| **试听** | [点击试听](https://pastewaves.com/player/d298653a-d070-404e-8e47-976374ac84ea) |
 
 ---
 
-## 🎧 试听
+## 💻 适用软件
 
-| 版本 | 音频链接 |
-| :--- | :--- |
-| **鈴蘭 v1.0.4** | [点击试听](https://pastewaves.com/player/d298653a-d070-404e-8e47-976374ac84ea) |
-
----
-
-## 💻 支持软件
-
-| 软件 | 说明 |
-| :--- | :--- |
-| **UTAU** | 经典免费歌声合成软件，Windows平台，解压即用 |
-| **OpenUTAU** | UTAU的现代升级版，支持 Android |
+| 软件 |
+| :--- |
+| **[UTAU](./Software%20Introduction1.md)** |
+| **[OpenUTAU](./Software%20Introduction2.md)** |
+| **[OpenUtau Mobile](./Software%20Introduction3.md)** |
 
 ---
 
-## 🔑 密钥
+## 📬 联系方式
 
-我知道你肯定想获得我的歌姬，链接如下↓  
-https://bowlroll.net/file/359048
+如有问题请联系：
 
-但是你必须知道我的密钥，且不允许二传↓  
-[👉 点击](./key1.md)
-
----
-
-> 🌸 *铃兰花开，歌声自来。*
+- 邮箱：suzuran797@outlook.com
+- QQ群：~~~
 
 ---
 
-<div align="center">
-  
-**—— 献给每一位热爱音乐的人 ——**
-
-</div>
+**感谢观看！**
