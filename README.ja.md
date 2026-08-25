@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🎵 鈴蘭 · Suzuran
+# 音源公開配布
 
 **[🇨🇳 简体中文](./README.zh.md) | [🇺🇸 English](./README.md)**
 
@@ -10,68 +10,60 @@
 
 <div align="center">
   
-![](https://img.shields.io/badge/花言葉-幸福の帰還-EBFFF9?style=flat-square)
+![](https://img.shields.io/badge/音源ステータス-公開配布-EBFFF9?style=flat-square)
 ![](https://img.shields.io/badge/代表色-鈴蘭緑-EBFFF9?style=flat-square)
-![](https://img.shields.io/badge/言語-日本語-EBFFF9?style=flat-square)
+![](https://img.shields.io/badge/音源言語-日本語-EBFFF9?style=flat-square)
 
 </div>
 
 ---
 
-## 🌸 キャラクタープロフィール
+こちらは **suzuran（鈴音らん）** の音源公開配布と紹介ページです。キーを入手したい場合は、対応するキャラクターのリンクからお探しください。
+
+---
+
+## 🌸 キャラクター紹介
 
 | 項目 | 内容 |
 | :--- | :--- |
-| **名前** | 鈴蘭 · Suzuran |
+| **名前** | suzuran（鈴音らん） |
 | **年齢** | 12歳 |
+| **性別** | 女性 |
+| **身長** | 154cm |
 | **誕生日** | 4月26日 |
-| **身長** | 158cm |
-| **代表色** | 鈴蘭緑 `#7c9a8e` |
-| **性格** | 優しい、静か |
+| **趣味** | 絵を描くこと、音楽を聴くこと |
+| **好きな食べ物** | チョコレート、豆腐、ココナッツジュース、陳皮糖、リンゴ |
+| **嫌いな食べ物** | ドリアン、脂身の多い肉、セロリ、ドリアン加工品 |
 
 ---
 
-## 🎵 ボイス特徴
+## 🎵 音源紹介
 
-| 特徴 | 説明 |
+| **音源+バージョン** | **単音 / CCVC / 連続音** |
 | :--- | :--- |
-| **音色** | 優しく甘い、少し掠れた声 |
-| **言語** | 日本語 |
+| **suzuran 1.0.3** | [単音](./Permit.md) |
+| **音声特徴** | 甘くて少しハスキーな声 |
+| **試聴** | [クリックして試聴](https://pastewaves.com/player/d298653a-d070-404e-8e47-976374ac84ea) |
 
----
-
-## 🎧 試聴
-
-| バージョン | オーディオリンク |
-| :--- | :--- |
-| **鈴蘭 v1.0.4** | [クリックして試聴](https://pastewaves.com/player/d298653a-d070-404e-8e47-976374ac84ea) |
 ---
 
 ## 💻 対応ソフトウェア
 
-| ソフトウェア | 説明 |
-| :--- | :--- |
-| **UTAU** | 無料の歌声合成ソフトウェア、Windowsプラットフォーム、解凍してすぐ使用可能 |
-| **OpenUTAU** | UTAUの現代的アップグレード版、Android対応 |
+| ソフトウェア |
+| :--- |
+| **[UTAU](./Software%20Introduction1.md)** |
+| **[OpenUTAU](./Software%20Introduction2.md)** |
+| **[OpenUtau Mobile](./Software%20Introduction3.md)** |
 
 ---
 
-## 🔑 キー
+## 📬 お問い合わせ
 
-あなたが私の歌姫を手に入れたいと思っているのは分かっています。リンクはこちら↓  
-https://bowlroll.net/file/359048
+ご質問がある場合は、以下までお問い合わせください：
 
-しかし、キーを知っている必要があり、二次配布は許可されていません↓  
-[👉 クリック](./key1.md)
-
----
-
-> 🌸 *鈴蘭の花が咲き、歌声が自然と訪れる。*
+- メール：suzuran797@outlook.com
+- QQグループ：~~~
 
 ---
 
-<div align="center">
-  
-**—— すべての音楽を愛する人へ ——**
-
-</div>
+**ご覧いただきありがとうございます！**
