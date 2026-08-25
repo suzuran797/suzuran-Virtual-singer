@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🎵 鈴蘭 · Suzuran
+# Voicebank Public Distribution
 
 **[🇨🇳 简体中文](./README.zh.md) | [🇯🇵 日本語](./README.ja.md)**
 
@@ -10,69 +10,60 @@
 
 <div align="center">
   
-![](https://img.shields.io/badge/Flower%20Language-Return%20of%20Happiness-EBFFF9?style=flat-square)
+![](https://img.shields.io/badge/Voicebank%20Status-Public%20Distribution-EBFFF9?style=flat-square)
 ![](https://img.shields.io/badge/Representative%20Color-Lily%20of%20the%20Valley%20Green-EBFFF9?style=flat-square)
-![](https://img.shields.io/badge/Language-Japanese-EBFFF9?style=flat-square)
+![](https://img.shields.io/badge/Voicebank%20Language-Japanese-EBFFF9?style=flat-square)
 
 </div>
 
 ---
 
-## 🌸 Character Profile
+This is the voicebank public distribution and introduction page for **suzuran（鈴音らん）**. If you wish to obtain the key, please look for it in the corresponding character's link.
+
+---
+
+## 🌸 Character Introduction
 
 | Item | Details |
 | :--- | :--- |
-| **Name** | 鈴蘭 · Suzuran |
+| **Name** | suzuran（鈴音らん） |
 | **Age** | 12 years old |
+| **Gender** | Female |
+| **Height** | 154cm |
 | **Birthday** | April 26 |
-| **Height** | 158cm |
-| **Representative Color** | Lily of the Valley Green `#7c9a8e` |
-| **Personality** | Gentle, Quiet |
+| **Likes** | Drawing, listening to music |
+| **Favorite Foods** | Chocolate, tofu, coconut juice, dried tangerine peel candy, apples |
+| **Disliked Foods** | Durian, fatty meat, celery, durian products |
 
 ---
 
-## 🎵 Voice Features
+## 🎵 Voicebank Introduction
 
-| Feature | Description |
+| **Voicebank+Version** | **Monopitch / CCVC / Continuous Tone** |
 | :--- | :--- |
-| **Tone** | Gentle and sweet, slightly husky |
-| **Language** | Japanese |
+| **suzuran 1.0.3** | [Monopitch](./Permit.md) |
+| **Voice Characteristic** | Sweet voice with a slight huskiness |
+| **Audition** | [Click to Listen](https://pastewaves.com/player/d298653a-d070-404e-8e47-976374ac84ea) |
 
 ---
-
-## 🎧 Audition
-
-| Version | Audio Link |
-| :--- | :--- |
-| **Suzuran v1.0.4** | [Click to Listen](https://pastewaves.com/player/d298653a-d070-404e-8e47-976374ac84ea) |
-
-___
 
 ## 💻 Supported Software
 
-| Software | Description |
-| :--- | :--- |
-| **UTAU** | Classic free singing synthesis software, Windows platform, extract and use |
-| **OpenUTAU** | Modern upgrade of UTAU, supports Android |
+| Software |
+| :--- |
+| **[UTAU](./Software%20Introduction1.md)** |
+| **[OpenUTAU](./Software%20Introduction2.md)** |
+| **[OpenUtau Mobile](./Software%20Introduction3.md)** |
 
 ---
 
-## 🔑 Key
+## 📬 Contact
 
-I know you definitely want to get my vocaloid, the link is below ↓  
-https://bowlroll.net/file/359048
+If you have any questions, please contact:
 
-But you must know my key, and redistribution is not allowed ↓  
-[👉 Click](./key1.md)
-
----
-
-> 🌸 *The lily of the valley blooms, and the song comes naturally.*
+- Email：suzuran797@outlook.com
+- QQ Group：~~~
 
 ---
 
-<div align="center">
-  
-**—— For everyone who loves music ——**
-
-</div>
+**Thank you for watching!**
