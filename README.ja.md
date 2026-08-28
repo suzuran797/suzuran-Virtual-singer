@@ -51,9 +51,9 @@
 
 | ソフトウェア |
 | :--- |
-| **[UTAU](./Software%20Introduction1.md)** |
-| **[OpenUTAU](./Software%20Introduction2.md)** |
-| **[OpenUtau Mobile](./Software%20Introduction3.md)** |
+| **[UTAU](./Software%20Introduction1.ja.md)** |
+| **[OpenUTAU](./Software%20Introduction2.ja.md)** |
+| **[OpenUtau Mobile](./Software%20Introduction3.ja.md)** |
 
 ---
 
