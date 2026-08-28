@@ -16,8 +16,6 @@ Redistribution and modification of this voicebank are prohibited. If there are a
 4. **Regarding Voicebank Production**:
 All production of this voicebank belongs to suzuran797, the voice provider, the production team, etc.
 
-5. **Regarding Key Distribution**:
-Redistribution of the key is prohibited. Violators will be held responsible.
 
 **If you violate the above terms, you will bear all consequences!**
 
