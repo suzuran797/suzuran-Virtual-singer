@@ -51,9 +51,9 @@
 
 | 软件 |
 | :--- |
-| **[UTAU](./Software%20Introduction1.md)** |
-| **[OpenUTAU](./Software%20Introduction2.md)** |
-| **[OpenUtau Mobile](./Software%20Introduction3.md)** |
+| **[UTAU](./Software%20Introduction1.zh.md)** |
+| **[OpenUTAU](./Software%20Introduction2.zh.md)** |
+| **[OpenUtau Mobile](./Software%20Introduction3.zh.md)** |
 
 ---
 
